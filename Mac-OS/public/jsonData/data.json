@@ -1,0 +1,92 @@
+[
+  {
+    "id": 1,
+    "image": "https://images.unsplash.com/photo-1761839258289-72f12b0de058?w=500&auto=format&fit=crop&q=60&ixlib=rb-4.1.0&ixid=M3wxMjA3fDF8MHxmZWF0dXJlZC1waG90b3MtZmVlZHwxfHx8ZW58MHx8fHx8",
+    "title": "Portfolio Website",
+    "description": "Personal portfolio website built using React and modern CSS.",
+    "tags": ["React", "CSS", "JavaScript"],
+    "repoLink": "https://github.com/username/portfolio",
+    "demoLink": "https://portfolio-demo.com"
+  },
+  {
+    "id": 2,
+    "image": "https://images.unsplash.com/photo-1761839258289-72f12b0de058?w=500&auto=format&fit=crop&q=60&ixlib=rb-4.1.0&ixid=M3wxMjA3fDF8MHxmZWF0dXJlZC1waG90b3MtZmVlZHwxfHx8ZW58MHx8fHx8",
+    "title": "Todo App",
+    "description": "A simple todo application with add, delete, and update features.",
+    "tags": ["React", "Hooks"],
+    "repoLink": "https://github.com/username/todo-app",
+    "demoLink": "https://todo-demo.com"
+  },
+  {
+    "id": 3,
+    "image": "https://images.unsplash.com/photo-1761839258289-72f12b0de058?w=500&auto=format&fit=crop&q=60&ixlib=rb-4.1.0&ixid=M3wxMjA3fDF8MHxmZWF0dXJlZC1waG90b3MtZmVlZHwxfHx8ZW58MHx8fHx8",
+    "title": "Weather App",
+    "description": "Weather forecasting app using public API.",
+    "tags": ["JavaScript", "API", "CSS"],
+    "repoLink": "https://github.com/username/weather-app",
+    "demoLink": "https://weather-demo.com"
+  },
+  {
+    "id": 4,
+    "image": "https://images.unsplash.com/photo-1761839258289-72f12b0de058?w=500&auto=format&fit=crop&q=60&ixlib=rb-4.1.0&ixid=M3wxMjA3fDF8MHxmZWF0dXJlZC1waG90b3MtZmVlZHwxfHx8ZW58MHx8fHx8",
+    "title": "Blog Website",
+    "description": "Full responsive blog website with multiple pages.",
+    "tags": ["HTML", "CSS", "JavaScript"],
+    "repoLink": "https://github.com/username/blog-site",
+    "demoLink": "https://blog-demo.com"
+  },
+  {
+    "id": 5,
+    "image": "https://images.unsplash.com/photo-1761839258289-72f12b0de058?w=500&auto=format&fit=crop&q=60&ixlib=rb-4.1.0&ixid=M3wxMjA3fDF8MHxmZWF0dXJlZC1waG90b3MtZmVlZHwxfHx8ZW58MHx8fHx8",
+    "title": "E-commerce UI",
+    "description": "Frontend UI for an e-commerce website.",
+    "tags": ["React", "Tailwind"],
+    "repoLink": "https://github.com/username/ecommerce-ui",
+    "demoLink": "https://ecommerce-demo.com"
+  },
+  {
+    "id": 6,
+    "image": "https://images.unsplash.com/photo-1761839258289-72f12b0de058?w=500&auto=format&fit=crop&q=60&ixlib=rb-4.1.0&ixid=M3wxMjA3fDF8MHxmZWF0dXJlZC1waG90b3MtZmVlZHwxfHx8ZW58MHx8fHx8",
+    "title": "Chat Application",
+    "description": "Real-time chat app with socket integration.",
+    "tags": ["Node", "Socket.io"],
+    "repoLink": "https://github.com/username/chat-app",
+    "demoLink": "https://chat-demo.com"
+  },
+  {
+    "id": 7,
+    "image": "https://images.unsplash.com/photo-1761839258289-72f12b0de058?w=500&auto=format&fit=crop&q=60&ixlib=rb-4.1.0&ixid=M3wxMjA3fDF8MHxmZWF0dXJlZC1waG90b3MtZmVlZHwxfHx8ZW58MHx8fHx8",
+    "title": "Calculator",
+    "description": "Basic calculator with clean UI.",
+    "tags": ["JavaScript", "HTML", "CSS"],
+    "repoLink": "https://github.com/username/calculator",
+    "demoLink": "https://calculator-demo.com"
+  },
+  {
+    "id": 8,
+    "image": "https://images.unsplash.com/photo-1761839258289-72f12b0de058?w=500&auto=format&fit=crop&q=60&ixlib=rb-4.1.0&ixid=M3wxMjA3fDF8MHxmZWF0dXJlZC1waG90b3MtZmVlZHwxfHx8ZW58MHx8fHx8",
+    "title": "Landing Page",
+    "description": "Modern landing page design.",
+    "tags": ["HTML", "CSS"],
+    "repoLink": "https://github.com/username/landing-page",
+    "demoLink": "https://landing-demo.com"
+  },
+  {
+    "id": 9,
+    "image": "https://images.unsplash.com/photo-1761839258289-72f12b0de058?w=500&auto=format&fit=crop&q=60&ixlib=rb-4.1.0&ixid=M3wxMjA3fDF8MHxmZWF0dXJlZC1waG90b3MtZmVlZHwxfHx8ZW58MHx8fHx8",
+    "title": "Notes App",
+    "description": "Notes app with local storage support.",
+    "tags": ["React", "LocalStorage"],
+    "repoLink": "https://github.com/username/notes-app",
+    "demoLink": "https://notes-demo.com"
+  },
+  {
+    "id": 10,
+    "image": "https://images.unsplash.com/photo-1761839258289-72f12b0de058?w=500&auto=format&fit=crop&q=60&ixlib=rb-4.1.0&ixid=M3wxMjA3fDF8MHxmZWF0dXJlZC1waG90b3MtZmVlZHwxfHx8ZW58MHx8fHx8",
+    "title": "Admin Dashboard",
+    "description": "Admin dashboard UI with charts and tables.",
+    "tags": ["React", "Chart.js"],
+    "repoLink": "https://github.com/username/admin-dashboard",
+    "demoLink": "https://dashboard-demo.com"
+  }
+]
