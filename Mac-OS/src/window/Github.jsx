@@ -1,6 +1,6 @@
 import React from "react";
 import Window from "./Window";
-import data from '../../public/jsonData/Data.json';
+import data from '../jsonData/data.json';
 
 const Github = ({ name, pass, setPass }) => {
     return (
