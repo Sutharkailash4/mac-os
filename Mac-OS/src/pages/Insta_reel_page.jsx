@@ -97,6 +97,8 @@ const Intsa_Reel = () => {
     const [likePop, setLikePop] = useState('translate(-50%,-50%) rotate(-45deg) scale(0)');
     const [opa, setOpa] = useState('1');
 
+    console.log("Working");
+
     return (
         <div className="reel_main_box">
             {reelsData.map((elem, idx) => {
