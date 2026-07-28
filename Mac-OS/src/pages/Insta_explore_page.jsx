@@ -70,7 +70,6 @@ const Insta_Explore = () => {
 
     let clear = () => {
         setInput("");
-        console.log("Input Clear");
     }
 
     const [input, setInput] = useState("");
